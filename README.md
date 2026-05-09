@@ -12,3 +12,5 @@ Several intuitive features are included in this report, such as:
 -Target lines   
 -Trend lines   
 -Filter pane button   
+
+![Summary](https://github.com/brookebenator/PowerBI-Modern-Theme-UX-Design/blob/main/Sales%20Analytics%20Dashboard.png)
