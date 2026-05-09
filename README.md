@@ -1,0 +1,14 @@
+# PowerBI-Modern-Theme-UX-Design
+
+***Power BI Modern Theme UX Design***
+
+This Power BI dashboard showcases a clean and modern approach to dashboard UX design. Highlighting sales analytics, it can be applicable to any industry or field where analytics can be utilized. Although the
+designs are advanced, only PowerPoint and Power BI were used to create this sleek dashboard. 
+
+Several intuitive features are included in this report, such as:
+
+-Buttons with icons to toggle between pages   
+-Color-coded KPI displaying revenue trends   
+-Target lines   
+-Trend lines   
+-Filter pane button   
